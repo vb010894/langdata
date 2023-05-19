@@ -1,9 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T16:54:03.088Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaBrowser/23.3.3.721 Yowser/2.5 Safari/537.36" version="21.3.2" etag="h3HPjjFpLpCACVQn1C1G" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-19T19:51:01.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaBrowser/23.3.3.721 Yowser/2.5 Safari/537.36" etag="ZnkHh3biJj3T7DO1GhuF" version="21.3.2" type="github">
   <diagram name="Страница 1" id="T_oPncjq_QDjCnkX9-f5">
-    <mxGraphModel>
+    <mxGraphModel dx="1386" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_raI3rCKoBnaQ3fLQQPT-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_raI3rCKoBnaQ3fLQQPT-1" target="_raI3rCKoBnaQ3fLQQPT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_raI3rCKoBnaQ3fLQQPT-1" value="Stsrt" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_raI3rCKoBnaQ3fLQQPT-2" value="Создать алгоритм вычисления суммы чека" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="10" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_raI3rCKoBnaQ3fLQQPT-3" value="i&amp;nbsp; &amp;nbsp; N&amp;nbsp; продукт&amp;nbsp; &amp;nbsp; &amp;nbsp;Количество&amp;nbsp; &amp;nbsp; &amp;nbsp; Цена&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;0&amp;nbsp; &amp;nbsp;1&amp;nbsp; продукт 1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;4&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 10&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1&amp;nbsp; &amp;nbsp;2 продукт 2&amp;nbsp;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;nbsp; &amp;nbsp;5&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;8&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2&amp;nbsp; &amp;nbsp;3 продукт 3&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 20&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="25" y="190" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_raI3rCKoBnaQ3fLQQPT-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_raI3rCKoBnaQ3fLQQPT-4" target="_raI3rCKoBnaQ3fLQQPT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_raI3rCKoBnaQ3fLQQPT-4" value="countProduct []&lt;br&gt;priceProduct []" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_raI3rCKoBnaQ3fLQQPT-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_raI3rCKoBnaQ3fLQQPT-6" target="_raI3rCKoBnaQ3fLQQPT-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="510" />
+              <mxPoint x="380" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_raI3rCKoBnaQ3fLQQPT-6" value="size = countProduct.Length" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_raI3rCKoBnaQ3fLQQPT-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_raI3rCKoBnaQ3fLQQPT-8" target="_raI3rCKoBnaQ3fLQQPT-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_raI3rCKoBnaQ3fLQQPT-8" value="sum = 0&lt;br&gt;i=0" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_raI3rCKoBnaQ3fLQQPT-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_raI3rCKoBnaQ3fLQQPT-10" target="_raI3rCKoBnaQ3fLQQPT-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_raI3rCKoBnaQ3fLQQPT-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_raI3rCKoBnaQ3fLQQPT-10" target="_raI3rCKoBnaQ3fLQQPT-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_raI3rCKoBnaQ3fLQQPT-10" value="i &amp;lt; size" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="580" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_raI3rCKoBnaQ3fLQQPT-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_raI3rCKoBnaQ3fLQQPT-12" target="_raI3rCKoBnaQ3fLQQPT-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_raI3rCKoBnaQ3fLQQPT-12" value="sum = sum+countProduct[i] * priceProduct[i]" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="730" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_raI3rCKoBnaQ3fLQQPT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_raI3rCKoBnaQ3fLQQPT-14" target="_raI3rCKoBnaQ3fLQQPT-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="860" />
+              <mxPoint x="180" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_raI3rCKoBnaQ3fLQQPT-14" value="i = i + 1 &lt;br&gt;(i++)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_raI3rCKoBnaQ3fLQQPT-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_raI3rCKoBnaQ3fLQQPT-19" target="_raI3rCKoBnaQ3fLQQPT-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_raI3rCKoBnaQ3fLQQPT-19" value="sum" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="590" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_raI3rCKoBnaQ3fLQQPT-21" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="590" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_raI3rCKoBnaQ3fLQQPT-23" value="40+40+40=120" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="308" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
